@@ -1,0 +1,18 @@
+{
+  "thedemosite.co.uk": {
+    "baseUrl": "http://thedemosite.co.uk",
+    "loginUrl": "http://thedemosite.co.uk/login.php",
+    "loginPageTitle": "Login example page to test the PHP MySQL online system",
+    "loginPageTitleText": "4. Login",
+    "loginPageStatusText": "**No login attempted**",
+    "loginPageInfoText": "Enter your login details you added on the previous page and test the login.\nThe success or failure will be shown above.",
+    "loginUsername": "testuser",
+    "loginPassword": "testpass",
+    "succesfulLoginMessage": "**Successful Login**",
+    "failedLoginMessage": "**Failed Login**"
+  },
+  "someOtherSite": {
+    "baseUrl": "blabla",
+    "title": "fgdjfgfh"
+  }
+}

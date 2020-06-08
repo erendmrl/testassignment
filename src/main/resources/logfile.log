@@ -1,0 +1,185 @@
+[16:51:33]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:51:40]  [INFO] stepdefs.TestStepDefs  - Navigating to the login page..
+[16:51:40]  [INFO] stepdefs.TestStepDefs  - Checking response HTTP code..
+[16:51:41]  [INFO] stepdefs.TestStepDefs  - Checking page title..
+[16:51:41]  [INFO] stepdefs.TestStepDefs  - Checking page title text..
+[16:51:41]  [INFO] stepdefs.TestStepDefs  - Checking page info text..
+[16:51:41]  [INFO] stepdefs.TestStepDefs  - Checking page status text..
+[16:51:41]  [INFO] stepdefs.TestStepDefs  - Entering a proper username..
+[16:51:41]  [INFO] stepdefs.TestStepDefs  - Entering a proper password..
+[16:51:41]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[16:51:42]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[16:51:42]  [INFO] stepdefs.TestStepDefs  - Entering a wrong username..
+[16:51:42]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[16:51:42]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[16:51:42]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:51:42]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:51:42]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:51:49]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[16:51:49]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[16:51:49]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:51:49]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:51:49]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:51:57]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[16:51:57]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[16:51:57]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:51:57]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:51:57]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:52:05]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:55:23]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:55:30]  [INFO] stepdefs.TestStepDefs  - Navigating to the login page..
+[16:55:30]  [INFO] stepdefs.TestStepDefs  - Checking response HTTP code..
+[16:55:31]  [INFO] stepdefs.TestStepDefs  - Checking page title..
+[16:55:31]  [INFO] stepdefs.TestStepDefs  - Checking page title text..
+[16:55:31]  [INFO] stepdefs.TestStepDefs  - Checking page info text..
+[16:55:31]  [INFO] stepdefs.TestStepDefs  - Checking page status text..
+[16:55:31]  [INFO] stepdefs.TestStepDefs  - Entering a proper username..
+[16:55:32]  [INFO] stepdefs.TestStepDefs  - Entering a proper password..
+[16:55:32]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[16:55:32]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[16:55:32]  [INFO] stepdefs.TestStepDefs  - Entering a wrong username..
+[16:55:32]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[16:55:32]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[16:55:32]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:55:32]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:55:32]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:55:39]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[16:55:39]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[16:55:39]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:55:39]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:55:40]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:55:47]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[16:55:47]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[16:55:47]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:55:47]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:55:47]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:55:55]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:56:40]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:56:47]  [INFO] stepdefs.TestStepDefs  - Navigating to the login page..
+[16:56:48]  [INFO] stepdefs.TestStepDefs  - Checking response HTTP code..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Checking page title..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Checking page title text..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Checking page info text..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Checking page status text..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Entering a proper username..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Entering a proper password..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Entering a wrong username..
+[16:56:49]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[16:56:50]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[16:56:50]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:56:50]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:56:50]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:56:57]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[16:56:57]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[16:56:57]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:56:57]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:56:57]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:57:04]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[16:57:04]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[16:57:04]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:57:04]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:57:04]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:57:12]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:59:25]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:59:33]  [INFO] stepdefs.TestStepDefs  - Navigating to the login page..
+[16:59:33]  [INFO] stepdefs.TestStepDefs  - Checking response HTTP code..
+[16:59:34]  [INFO] stepdefs.TestStepDefs  - Checking page title..
+[16:59:34]  [INFO] stepdefs.TestStepDefs  - Checking page title text..
+[16:59:34]  [INFO] stepdefs.TestStepDefs  - Checking page info text..
+[16:59:34]  [INFO] stepdefs.TestStepDefs  - Checking page status text..
+[16:59:34]  [INFO] stepdefs.TestStepDefs  - Entering a proper username..
+[16:59:34]  [INFO] stepdefs.TestStepDefs  - Entering a proper password..
+[16:59:35]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[16:59:35]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[16:59:35]  [INFO] stepdefs.TestStepDefs  - Entering a wrong username..
+[16:59:35]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[16:59:35]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[16:59:35]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[16:59:35]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[16:59:35]  [WARN] stepdefs.TestStepDefs  - Test started..
+[16:59:53]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:00:00]  [INFO] stepdefs.TestStepDefs  - Navigating to the login page..
+[17:00:00]  [INFO] stepdefs.TestStepDefs  - Checking response HTTP code..
+[17:00:01]  [INFO] stepdefs.TestStepDefs  - Checking page title..
+[17:00:01]  [INFO] stepdefs.TestStepDefs  - Checking page title text..
+[17:00:01]  [INFO] stepdefs.TestStepDefs  - Checking page info text..
+[17:00:01]  [INFO] stepdefs.TestStepDefs  - Checking page status text..
+[17:00:02]  [INFO] stepdefs.TestStepDefs  - Entering a proper username..
+[17:00:02]  [INFO] stepdefs.TestStepDefs  - Entering a proper password..
+[17:00:02]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[17:00:02]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[17:00:02]  [INFO] stepdefs.TestStepDefs  - Entering a wrong username..
+[17:00:02]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[17:00:02]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[17:00:02]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[17:00:02]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:00:02]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:00:10]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[17:00:10]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[17:00:10]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[17:00:10]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:00:10]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:00:17]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[17:00:17]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[17:00:17]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[17:00:17]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:00:17]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:00:25]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:01:16]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:01:23]  [INFO] stepdefs.TestStepDefs  - Navigating to the login page..
+[17:01:24]  [INFO] stepdefs.TestStepDefs  - Checking response HTTP code..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Checking page title..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Checking page title text..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Checking page info text..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Checking page status text..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Entering a proper username..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Entering a proper password..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Entering a wrong username..
+[17:01:25]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[17:01:26]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[17:01:26]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[17:01:26]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:01:26]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:01:34]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[17:01:34]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[17:01:34]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[17:01:34]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:01:35]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:01:42]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[17:01:42]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[17:01:42]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[17:01:42]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:01:42]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:01:51]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:05:55]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:06:02]  [INFO] stepdefs.TestStepDefs  - Navigating to the login page..
+[17:06:02]  [INFO] stepdefs.TestStepDefs  - Checking response HTTP code..
+[17:06:03]  [INFO] stepdefs.TestStepDefs  - Checking page title..
+[17:06:03]  [INFO] stepdefs.TestStepDefs  - Checking page title text..
+[17:06:03]  [INFO] stepdefs.TestStepDefs  - Checking page info text..
+[17:06:04]  [INFO] stepdefs.TestStepDefs  - Checking page status text..
+[17:06:04]  [INFO] stepdefs.TestStepDefs  - Entering a proper username..
+[17:06:04]  [INFO] stepdefs.TestStepDefs  - Entering a proper password..
+[17:06:04]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[17:06:04]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[17:06:04]  [INFO] stepdefs.TestStepDefs  - Entering a wrong username..
+[17:06:04]  [INFO] stepdefs.TestStepDefs  - Clicking login..
+[17:06:05]  [INFO] stepdefs.TestStepDefs  - Checking log in info message..
+[17:06:05]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[17:06:05]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:06:05]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:06:12]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[17:06:12]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[17:06:12]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[17:06:12]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:06:12]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:06:19]  [INFO] stepdefs.TestStepDefs  - Checking whether there will be an alert when invalid a username or password entered..
+[17:06:19]  [INFO] stepdefs.TestStepDefs  - Alert was present and accepted
+[17:06:19]  [INFO] util.WriteToFile  - Successfully wrote to the file.
+[17:06:19]  [WARN] stepdefs.TestStepDefs  - Test finished..
+[17:06:19]  [WARN] stepdefs.TestStepDefs  - Test started..
+[17:06:27]  [WARN] stepdefs.TestStepDefs  - Test finished..
